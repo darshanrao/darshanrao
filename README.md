@@ -8,7 +8,6 @@ Hi there! I'm Darshan Rao, a passionate data scientist and software engineer wit
 - **Frameworks:** TensorFlow, PyTorch, Scikit-Learn, Flutter
 - **Tools:** Jupyter Notebook, Git, Docker, Tableau, Firebase
 - **Platforms:** AWS, Azure, GCP
-- **Soft Skills:** Problem-solving, Critical Thinking, Analytical Skills, Collaboration, Statistical Analysis, Adaptability
 
 ## Connect with Me
 - LinkedIn: [linkedin.com/in/raod](https://www.linkedin.com/in/raod)
