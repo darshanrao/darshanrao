@@ -13,6 +13,5 @@ Hi there! I'm Darshan Rao, a passionate data scientist and software engineer wit
 - LinkedIn: [linkedin.com/in/raod](https://www.linkedin.com/in/raod)
 - GitHub: [github.com/darshanrao](https://github.com/darshanrao)
 - Email: rao.a.darshan@gmail.com
-- Phone: +91 7715 073 593
 
 Feel free to explore my repositories, and if you have any questions or collaboration opportunities, don't hesitate to reach out to me. I'm always excited to connect with fellow developers and researchers!
