@@ -15,3 +15,5 @@ Hi there! I'm Darshan Rao, a passionate data scientist and software engineer wit
 - Email: rao.a.darshan@gmail.com
 
 Feel free to explore my repositories, and if you have any questions or collaboration opportunities, don't hesitate to reach out to me. I'm always excited to connect with fellow developers and researchers!
+
+![](https://komarev.com/ghpvc/?username=darshanrao&color=blue)
